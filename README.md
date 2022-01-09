@@ -1,12 +1,9 @@
 # Backend-engineer-roadmap-note
 Personal notes as backend developer
-
-## Purpose
-Note for important concepts as well as implementations.
-
-## Langauges
-Python (interpreter)
-Go (compiler)
+## Purpos
+Note for important concepts as well as its actual implementations using Go.
+## Langauge
+Go
 ## Beginner Level
 - Internet
   - What is internet?
@@ -36,7 +33,7 @@ Go (compiler)
 - Browser
   - LocalStorage?
   - Cookie?
-- Python curd app
+- go curd app
 - DB
   - postgre db
   - How sqlite works? and how it differ from 	RDBMS?
@@ -181,4 +178,4 @@ Go (compiler)
     - Micro service
   - API
     - gRPC
-    - 
+    -
