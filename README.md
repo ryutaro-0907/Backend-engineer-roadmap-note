@@ -1,2 +1,184 @@
 # Backend-engineer-roadmap-note
 Personal notes as backend developer
+
+## Purpose
+Note for important concepts as well as implementations.
+
+## Langauges
+Python (interpreter)
+Go (compiler)
+## Beginner Level
+- Internet
+  - What is internet?
+  - Client-server model?
+  - Domain? IP address?
+  - Protocol?
+    - HTTP?
+- OS and computer science
+  - How computer start?
+  - bash basic
+    - How to set path?
+  - SSH login
+  - Personalize terminal
+  - File system (Unix)
+- Git
+  - Idea
+  - Basic commands
+  - .gitignore
+  - GitHub
+  - Git vs GitHub?
+- Coding basic
+  - Camel case vs Snake case
+  - The best way to solve error?
+  - information source
+  - Different testing and meaning
+  - MVC
+- Browser
+  - LocalStorage?
+  - Cookie?
+- Python curd app
+- DB
+  - postgre db
+  - How sqlite works? and how it differ from 	RDBMS?
+  - What is ORM?
+  - Meaning of Index
+  - The foreign key constraint?
+- API
+  - What is JSON?
+  - Python test example
+  - Basic security
+  - HTTPS?
+  - Cloud and on premise?
+  - Deploy to Heroku, aws or gcp
+
+## Junior Level
+- Internet and Web
+  - DNS record management
+  - Firewall
+  - Hosting
+- Coding basic 2
+  - Readable code
+  - Use comments
+    - TODO
+    - FIXME
+    - enum
+- Design patterns
+  - DRY?
+  - SOLID?
+  - KISS?
+  - YAGNI?
+- Git 2
+  - Solve conflict
+  - Revert time
+  - GitFlow
+  - Commit message
+- GitHub 2
+  - Write README
+  - Use issue and ticket development
+  - Pull request => code review
+- Docker
+  - Docker container?
+  - How to write docker file
+  - docker-compose.yml?
+  - Run existing code on container
+- DB
+  - Basic sql query
+  - connect different tables
+  - Redis
+  - DB dump and restore
+- Testing
+  - Normal vs abnormal
+  - Clean up data after test
+- API
+  - Rest
+  - Certification, Authorization
+  - Basic/digest
+  - JWT
+- Design
+  - ER
+  - User story to table design
+  - routing design
+- Security
+  - MD5?
+  - SHA family?
+  - scrypt/bctypt
+  - SSL/TSL
+- Cloud
+  - Host web app on aws
+## Senior Level
+- Computer, OS and enviroment
+  - Why computer run
+  - How program run on cpu and memory?
+  - How computer start?
+    - rc file road orders, and BIOS
+  - Stack and Heap
+  - Process, thread, cpu core
+  - How different data type behave on memory?
+  - Flaot vs decimal
+- Coding basic 3
+  - Intepreter vs complier?
+  - Parallel vs Concurrent?
+  - Code review
+  - Unicode and escape
+  - Timezone
+- Design pattern
+  - Implementation vs interface
+  - BDD
+  - TDD
+  - GoF
+- Architecture
+  - BFF
+- Git
+  - Rebase
+- Github
+  - CI
+  - GitHub actions, travis CircleCI
+- API
+  - OAuth
+  - OpenIDConnect?
+  - GraphQL
+- Docker
+  - Volume network
+  - Kubernetes
+  - Docker image registry
+- DB
+  - Optimistic locking vs pessimistic locking
+  - MENTOR
+- Test
+  - Automate testing
+- Design
+  - Story
+  - Define what need from the story and design app
+  - Estimate works
+- Security
+  - Basic attack and preparation
+    - DDos
+    - Blue force
+    - Rainbow table
+    - password list
+    - XSS
+    - CSRF
+  - CORS?
+  - Hash function
+- Infrastructure
+  - Proxy server? how to make it?
+  - Terraform
+  - Prometheus
+- Cloud service
+  - CDN
+  - serverless
+  - Road balancer
+  - Auto scaling
+  - Estimate price for app/code
+
+## Lead Level
+- Coding basic
+  - Licence
+    - Oss contribute
+  - Design pattern
+    - DDD
+    - Clean Architecture
+    - Micro service
+  - API
+    - gRPC
+    - 
