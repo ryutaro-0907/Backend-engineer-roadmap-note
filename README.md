@@ -1,8 +1,8 @@
 # Backend-engineer-roadmap-note
 Personal notes as backend developer
-## Purpos
+## Objective
 Note for important concepts as well as its actual implementations using Go.
-## Langauge
+## Language
 Go
 ## Beginner Level
 - Internet
